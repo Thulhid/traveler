@@ -1,0 +1,1 @@
+import{j as o,L as s}from"./index-D26bP5HT.js";const l="_logo_48dk2_1",t={logo:l};function g(){return o.jsx(s,{to:"/",children:o.jsx("img",{src:"/logo.png",alt:"Traveler logo",className:t.logo})})}export{g as L};
