@@ -5,7 +5,8 @@ import {
   useEffect,
   useReducer,
 } from "react";
-const BASE_URL = "http://localhost:8000";
+const BASE_URL =
+  "https://my-json-server.typicode.com/Thulhid/traveler-json-server";
 
 const CitiesContext = createContext();
 const initialState = {
